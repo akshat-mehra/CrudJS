@@ -1,0 +1,18 @@
+tutorial from : https://www.youtube.com/watch?v=eYVGoXPq2RA&t=2030s
+
+Alien Database
+Web Browser
+REST API -> Http -> Get, Post, Patch, Delete
+Express
+Mongodb
+
+
+GET : http://localhost:9000/aliens
+GET : http://localhost:9000/aliens/<id>
+POST : http://localhost:9000/aliens
+PATCH : http://localhost:9000/aliens/<id>
+DELETE : 
+
+Note : you need to start and stop mongodb too. 
+To start mongodb : brew services start mongodb-community@5.0
+to stop mongodb : brew services start mongodb-community@5.0
